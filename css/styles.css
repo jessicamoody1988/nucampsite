@@ -48,3 +48,10 @@ a, a:hover {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
