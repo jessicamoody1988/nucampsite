@@ -46,7 +46,7 @@ a, a:hover {
 }
 
 .site-footer {
-    background-image: linear-gradient(rgb(228, 250, 228), #034813, #3046C5);
+    background-color: #034813;
     color: rgb(255, 255, 255);
     padding: 20px 0;
 }
